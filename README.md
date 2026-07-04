@@ -1,6 +1,6 @@
 # Hi im tsK4s
 ### Im a young programmer learning Github
-######### Gamer
+###### Gamer
 
 
 <!--
